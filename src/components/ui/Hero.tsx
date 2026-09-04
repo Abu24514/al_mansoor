@@ -35,22 +35,24 @@ export default function Hero({
   imageAlt,
   imagePosition = "right",
 }: HeroProps) {
+  // Mobile/Tab (< md) par order-1 (ऊपर) aur Desktop (md:) par position ke hisab se adjust hoga
   const textOrder =
     imagePosition === "right"
-      ? "order-2 md:order-1 rtl:md:order-2"
-      : "order-2 md:order-2 rtl:md:order-1";
+      ? "order-1 md:order-1 rtl:md:order-2"
+      : "order-1 md:order-2 rtl:md:order-1";
 
+  // Mobile/Tab (< md) par order-2 (नीचे) aur Desktop (md:) par position ke hisab se adjust hoga
   const imageOrder =
     imagePosition === "right"
-      ? "order-1 md:order-2 rtl:md:order-1 md:right-0 rtl:md:right-auto rtl:md:left-0"
-      : "order-1 md:order-1 rtl:md:order-2 md:left-0 rtl:md:left-auto rtl:md:right-0";
+      ? "order-2 md:order-2 rtl:md:order-1 md:right-0 rtl:md:right-auto rtl:md:left-0"
+      : "order-2 md:order-1 rtl:md:order-2 md:left-0 rtl:md:left-auto rtl:md:right-0";
 
   return (
     <section className={`relative w-full ${bgColor} overflow-hidden`}>
       <div className="max-w-7xl mx-auto px-6 md:px-12 relative">
         <div className="grid grid-cols-1 md:grid-cols-2 items-center min-h-160">
           {/* Text content */}
-          <div className={`relative z-10 py-16 md:py-0 ${textOrder}`}>
+          <div className={`relative z-10 py-12 md:py-0 ${textOrder}`}>
             {badge && (
               <div className="inline-flex items-center gap-2 bg-white/70 backdrop-blur-sm border border-primary/20 rounded-full pl-2.5 pr-4 py-1.5 mb-6">
                 <span className="bg-primary text-white rounded-full p-1">
