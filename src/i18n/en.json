@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "forCompanies": "For Companies",
+    "about": "About",
+    "contact": "Contact",
+    "lookingFor": "I'm looking for",
+    "work": "Work",
+    "employees": "Employees"
+  },
+  "hero": {
+    "badge": "Govt. Registered Overseas Agency • 25+ Years Trust",
+    "titleLine1": "Your Gulf Job,",
+    "titleLine2": "Verified &",
+    "titleLine3": "Guaranteed",
+    "subtitle": "25 years, 186+ trusted Gulf companies, thousands placed. No agent fees, no fake promises — just a real job, verified every step of the way.",
+    "getStarted": "Get Started",
+    "browseJobs": "Browse Jobs",
+    "hireWorkers": "Hire Workers",
+    "years": "Years Experience",
+    "companies": "Partner Companies",
+    "verified": "Verified Workers"
+  },
+  "trustStats": {
+    "placed": "Workers Placed"
+  },
+  "howItWorks": {
+  "title": "How It Works",
+  "subtitle": "Simple steps to your Gulf job or your next hire",
+  "forJobSeekers": "For Job Seekers",
+  "forCompanies": "For Companies",
+  "seeker": {
+    "step1Title": "Search Job",
+    "step1Desc": "Browse available jobs by category, country, or salary",
+    "step2Title": "Apply Job",
+    "step2Desc": "Tap apply and fill a simple form — no typing hassle",
+    "step3Title": "Upload Documents",
+    "step3Desc": "Take a photo of your ID and papers — that's it",
+    "step4Title": "Get Verified",
+    "step4Desc": "Our team verifies you and connects you to the employer"
+  },
+  "company": {
+    "step1Title": "Fill the Form",
+    "step1Desc": "Tell us what workers you need and how many",
+    "step2Title": "Submit Request",
+    "step2Desc": "Your requirement goes straight to our team",
+    "step3Title": "We Reach Out",
+    "step3Desc": "Our team contacts you with verified candidates"
+  }
+},
+"categories": {
+  "title": "Popular Job Categories",
+  "subtitle": "Find the right job in your field of work",
+  "viewAll": "View All Jobs",
+  "driver": "Driver",
+  "cook": "Cook",
+  "cleaner": "Cleaner",
+  "electrician": "Electrician",
+  "plumber": "Plumber",
+  "security": "Security Guard",
+  "construction": "Construction Worker",
+  "hotel": "Hotel Staff",
+  "openings": "openings"
+},
+  "footer": {
+    "tagline": "Your trusted path to verified direct jobs in the Gulf region.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us"
+  }
+}
