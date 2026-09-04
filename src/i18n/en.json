@@ -63,6 +63,53 @@
   "hotel": "Hotel Staff",
   "openings": "openings"
 },
+"featuredJobs": {
+  "title": "Latest Job Openings",
+  "subtitle": "Fresh opportunities added regularly",
+  "viewAll": "View All Jobs",
+  "apply": "Apply Now",
+  "perMonth": "/month"
+},
+"whyUs": {
+  "eyebrow": "Why Al-Mansoor",
+  "title": "Built on 25 Years of Trust",
+  "subtitle": "We make finding a Gulf job simple, safe, and honest",
+  "point1Title": "No Agent Fees",
+  "point1Desc": "No hidden charges or middleman commissions — ever",
+  "point2Title": "186+ Verified Companies",
+  "point2Desc": "We only work with trusted, verified employers",
+  "point3Title": "Fast Processing",
+  "point3Desc": "Quick document verification and job matching",
+  "point4Title": "Real Human Support",
+  "point4Desc": "Our team guides you at every step, not a chatbot"
+},
+"forCompanies": {
+  "title": "Need Reliable Workers?",
+  "subtitle": "Tell us your requirement and our team will reach out with verified candidates — no long hiring process, no hassle.",
+  "cta": "Post Your Requirement",
+  "point1": "186+ companies already trust us",
+  "point2": "Pre-verified worker profiles",
+  "point3": "Dedicated support team"
+},
+"faq": {
+  "title": "Frequently Asked Questions",
+  "subtitle": "Answers to common questions",
+  "q1": "Is there any fee to apply for a job?",
+  "a1": "No, applying through Al-Mansoor is completely free. We never charge job seekers any fee.",
+  "q2": "What documents do I need?",
+  "a2": "You'll need a valid ID/passport, a passport-size photo, and any relevant experience certificates.",
+  "q3": "How long does it take to get a job?",
+  "a3": "It depends on the role and employer, but our team works to match and verify you as quickly as possible.",
+  "q4": "Do I need to create an account?",
+  "a4": "No account needed. You can apply directly with your phone number — we'll keep you updated via SMS/WhatsApp.",
+  "q5": "How do companies hire through Al-Mansoor?",
+  "a5": "Companies simply fill out our requirement form, and our team reaches out with verified candidates that match their needs."
+},
+"ctaBanner": {
+  "title": "Ready to start your Gulf journey?",
+  "subtitle": "Join thousands who found verified jobs through Al-Mansoor",
+  "cta": "Apply Now"
+},
   "footer": {
     "tagline": "Your trusted path to verified direct jobs in the Gulf region.",
     "rights": "All rights reserved.",
