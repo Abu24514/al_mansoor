@@ -51,7 +51,7 @@ export default function FeaturedJobs() {
               </div>
               <Link
                 href={`/jobs/${job.id}`}
-                className="block text-center bg-primary text-white text-sm font-medium py-2.5 rounded-lg hover:bg-primary/90 transition"
+                className="block text-center bg-emerald-900 text-white hover:text-emerald-900 text-sm font-medium py-2.5 rounded-lg hover:bg-transparent hover:border hover:border-emerald-800 transition"
               >
                 {t.featuredJobs.apply}
               </Link>

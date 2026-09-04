@@ -51,8 +51,8 @@ export default function HowItWorks() {
               onClick={() => setActiveTab("seeker")}
               className={`px-5 py-2.5 rounded-full text-sm font-semibold transition cursor-pointer ${
                 activeTab === "seeker"
-                  ? "bg-primary text-white"
-                  : "text-charcoal hover:text-primary"
+                  ? "bg-emerald-900 text-white"
+                  : "text-charcoal hover:text-emerald-900"
               }`}
             >
               {t.howItWorks.forJobSeekers}
@@ -61,8 +61,8 @@ export default function HowItWorks() {
               onClick={() => setActiveTab("company")}
               className={`px-5 py-2.5 rounded-full text-sm font-semibold transition cursor-pointer ${
                 activeTab === "company"
-                  ? "bg-primary text-white"
-                  : "text-charcoal hover:text-primary"
+                  ? "bg-emerald-900 text-white"
+                  : "text-charcoal hover:text-emerald-900"
               }`}
             >
               {t.howItWorks.forCompanies}

@@ -50,7 +50,7 @@ export default function JobCategories() {
             <Link
               key={slug}
               href={`/jobs?category=${slug}`}
-              className="group bg-bg-light hover:bg-primary rounded-2xl p-5 md:p-6 transition-all duration-200 flex flex-col items-center text-center gap-3"
+              className="group bg-bg-light hover:bg-emerald-900 rounded-2xl p-5 md:p-6 transition-all duration-200 flex flex-col items-center text-center gap-3"
             >
               <span className="bg-white text-primary group-hover:bg-white/20 group-hover:text-white rounded-xl p-3 transition-colors">
                 <Icon className="w-6 h-6" />
